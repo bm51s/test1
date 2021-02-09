@@ -1,0 +1,80 @@
+
+
+
+Object-oriented programming has four basic concepts: 
+- abstraction
+- encapsulation
+- inheritance
+- polymorphism
+
+
+
+// https://frontend-stuff.com/blog/object-oriented-programming/
+// Принципы ООП:
+// Инкапсуляция
+// Абстракция
+// Полиморфизм
+// Наследование
+
+// https://codesrealm.com/pillars-of-objected-oriented-programming
+// JavaScript OOP : Abstraction
+// JavaScript OOP : Encapsulation
+// JavaScript OOP : Inheritance
+// JavaScript OOP : Polymorphism
+
+// https://www.youtube.com/watch?v=4l3bTDlT6ZI&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7
+
+// Object-oriented programming in JavaScript #1. Abstraction.
+// https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-1-abstraction-c47307c469d1
+
+
+
+// What is Object-Oriented Programming?
+// https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/#encapsulation
+
+// Encapsulation
+class Carnew {
+  #fuel = 50
+
+  getFuel () {
+    return this.#fuel
+  }
+
+  setFuel (value) {
+    this.#fuel = value
+    if (value > 100) this.#fuel = 100
+  }
+}
+
+const car = new Carnew()
+console.log(car.getFuel()) // 50
+
+car.setFuel(3000)
+console.log(car.getFuel()) // 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
