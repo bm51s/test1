@@ -1,0 +1,54 @@
+currency api js free
+https://exchangeratesapi.io/
+https://fixer.io/product
+https://stackoverflow.com/questions/3139879/how-do-i-get-currency-exchange-rates-via-an-api-such-as-google-finance
+
+js free api commodities
+https://financialmodelingprep.com/developer/docs/
+
+js free currency api
+https://stackoverflow.com/questions/3139879/how-do-i-get-currency-exchange-rates-via-an-api-such-as-google-finance
+https://currencylayer.com/
+https://fixer.io/
+https://currencyfreaks.com/documentation.html
+https://openexchangerates.org/account
+
+free api cryptocurrency
+https://www.coingecko.com/en/api
+https://www.coinapi.io/
+
+js get yesterday in format yyyy-mm-dd
+https://stackoverflow.com/questions/23593052/format-javascript-date-as-yyyy-mm-dd
+var d = new Date(); 
+d.setDate(d.getDate() - 1); d.toISOString().slice(0,10);
+
+An Introduction To React’s Context API
+https://www.smashingmagazine.com/2020/01/introduction-react-context-api/
+https://www.youtube.com/watch?v=3Ct6zuHYDtY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
