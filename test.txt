@@ -1,0 +1,236 @@
+
+
+
+css letter width
+https://stackoverflow.com/questions/15262094/setting-character-width-with-css
+
+    font-weight: 600;
+    font-family: arial;
+    /* font-family: tahoma; */
+    /* font-family: verdana; */
+    transform: scale(0.93,1.0);
+
+
+
+https://web.dev/performance-scoring/?utm_source=lighthouse&utm_medium=unknown
+https://googlechrome.github.io/lighthouse/scorecalc/#FCP=0&SI=0&LCP=0&TTI=0&TBT=0&CLS=0&FMP=0&FCI=0&device=mobile&version=6&version=5
+
+fonts gstatic
+https://webformyself.com/google-fonts-uskorit-vremya-zagruzki/
+
+https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%B1%D0%B5%D1%80%D0%BF%D0%BE%D0%BD%D0%B5%D0%B4%D1%96%D0%BB%D0%BE%D0%BA
+https://www.youtube.com/watch?v=xNbeJhEKj18
+https://www.youtube.com/watch?v=ZOH7V0v2CpM
+
+
+
+.userData{align-items:center;display:flex;flex-wrap:wrap}.userData a{margin:0 5px}@media (max-width:800px){.userData a{font-size:10px}}.userData p{color:#000;padding:0;margin:5px}@media all and (max-width:800px){.userData{width:94px;overflow:hidden}.userData p{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}}
+
+
+
+яндекс не отображается фавикон
+https://semantica.in/blog/esli-yandeks-ne-vidit-favikon-sposoby-resheniya-problemy.html
+https://tilda.cc/ru/answers/a/favicon-yandex/
+https://yandex.ru/support/webmaster/search-results/favicon.html#how-to-change
+
+yandex check site favicon
+https://yandex.com/support/webmaster/search-results/favicon.html
+
+solid принципы js
+https://coderoad.ru/4711851/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-JavaScript-%D0%BF%D0%BE-SOLID
+http://aspiringcraftsman.com/2011/12/08/solid-javascript-single-responsibility-principle/
+
+https://nv.ua/ukr/biz/economics/astarta-prodast-dva-cukrovih-zavodi-novini-ukrajini-50122099.html
+
+https://nv.ua/ukr/biz/markets/pislya-zapusku-belaes-krajini-baltiji-ne-kupuvatimut-elektriku-v-rf-ostanni-novini-50122172.html
+
+https://www.liga.net/mestnye_vybory_2020_temp_results
+
+https://www.liga.net/politics/articles/rossiya-proigrala-vybory-v-ukraine-revansh-opzj-okazalsya-pirrovoy-pobedoy-daje-na-donbasse
+
+https://nv.ua/ukr/sport/football/liga-chempioniv-video-ostanni-novini-50122641.html
+
+https://drive.google.com/file/d/0B3m2TqBM0APKMWtGVUpjczg1QVU/view
+
+https://drive.google.com/file/d/1ZnEbGO3qtY6W5rT6OyQMpsmNDgGbzGrL/view
+
+https://nv.ua/ukr/biz/economics/top-10-torgovih-partneriv-ukrajini-rosiya-ustupilo-liderstvo-kitayu-novini-ukrajini-50071571.html
+
+https://nv.ua/ukr/idealnyy-zavtrak-kak-prigotovit-omlet-rulet-po-receptu-lizy-glinskoy-50123188.html
+
+
+
+if string contains space
+https://stackoverflow.com/questions/17616624/detect-if-string-contains-any-spaces
+js string contains space between words.
+https://stackoverflow.com/questions/1731190/check-if-a-string-has-white-space
+
+
+
+test0942061120@gmail.com
+Qwe1234567
+
+test061120202018@gmail.com
+Qwe1234567
+
+test061120202024@gmail.com
+Qwe1234567
+
+src="https://myaccountnew.1primeoptions.com/forgot-password?lang=es"
+
+
+
+https://en.wikipedia.org/wiki/Visual_Studio_Code
+https://code.visualstudio.com/docs/?dv=win64user
+https://marketplace.visualstudio.com/vscode
+
+
+
+https://naked-science.ru/article/nakedscience/gravitacionnoe-zamedlenie
+
+https://naked-science.ru/article/nakedscience/petlevaya-kvantovaya
+
+https://naked-science.ru/article/nakedscience/puteshestviya-vo-vremeni
+
+
+
+vue 2 and 3
+https://www.youtube.com/watch?v=A5cVyjrKx_Q
+
+
+
+українське it доходи 2019
+https://minfin.com.ua/ua/2020/02/23/40969670/
+https://news.finance.ua/ua/news/-/447679/sergij-atamas-rozvytok-it-galuzi-v-ukrayini-poglyad-zboku
+україна експорт галузі
+https://www.me.gov.ua/Documents/List?lang=uk-UA&id=e3c3c882-4b68-4f23-8e25-388526eb71c3&tag=TendentsiiEksportuInfografika-eksport-
+
+
+
+https://insights.stackoverflow.com/trends?tags=python%2Cphp%2Cjava%2Cscala%2Cc%23%2Cjavascript%2Cc%2B%2B
+
+
+
+Рейтинг устойчивости банков
+
+https://minfin.com.ua/banks/rating/?date=2020-10-01
+
+
+
+сравнение баз данных
+
+https://habr.com/ru/post/348220/
+
+
+
+countries by number of it specialists
+
+https://www.daxx.com/blog/development-trends/number-software-developers-world
+
+
+
+https://glavnoe.ua/
+
+
+
+)))
+https://nv.ua/ukr/world/countries/seks-vechirka-z-yevrodeputatom-u-bryusseli-politik-vistupav-proti-gey-shlyubiv-ostanni-novini-50127620.html
+
+
+
+Листопад був найспекотнішим у світі з 1981 року
+
+https://www.pravda.com.ua/news/2020/12/7/7276100/
+
+
+
+Introduction to MobX and React
+
+https://www.youtube.com/watch?v=Dp75-DnGFrU
+
+
+
+Применим возможности видеокарты в вашей Java-программе
+
+https://dou.ua/lenta/articles/java-video-card-capabilities/
+
+
+
+=60005
+10040
+3147
+41657
+5161
+
+=70001
+33385
+19849
+16767
+
+=82770
+17650
+2252
+1820
+37652
+23396
+
+=46707
+30458
+16249
+
+=81884
+18913
+50217
+12754
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+вот нашел задачку , иногда такое может пригодиться и в работе , я такое пару раз делал когда то )
+
+Есть длинный текст и есть форма поиска по этому тексту. При вводе слова в форму поиска необходимо найти все упоминания этого слова в тексте и выделить (подсветить) цветом, жирным или другим настраивающим способом. В случае, если указываются 2 слова, то каждое должно искаться индивидуально, если словосочетание указывается в кавычках,то ищется как единое словосочетание. Помимо грубого поиска так же должно находить слова с разными окончаниями: пиво, пива, пивом..
+
+
+
+
+
+Задача:
+
+Создать приложение-игру “Убери кубики”. Суть игры заключается в следующем: на HTML-странице есть поле, на котором расположены в случайном порядке “кубики” - разноцветные блоки. Кубики убираются с поля наведением курсора на кубик и последующим кликом левой кнопкой мышки. Даётся время - 1 минута. По мере убирания с поля кубиков, на поле появляются новые кубики (случайное количество от 0, 1 или 2). Кубики должны быть нескольких цветов. Удаление кубика приносит баллы игроку. В зависимости от цвета кубика добавляется разное количество баллов. Рандомно должны появляться кубики, которые добавляют или отнимают время. Цель игры - за 1 минуту набрать наибольшее количество очков. Набранные очки и оставшееся время отображаются в отдельных полях. 
+По истечению времени появляется всплывающее окно, на котором отображены кол-во набранных очков и поле для ввода имени игрока. После ввода имени и нажатии кнопки “OK” (“Сохранить”) в табличке результатов добавляется строка с введённым именем игрока и соответствующим кол-вом очков. 
+При перезагрузке страницы таблица результатов должна оставаться, поэтому необходимо реализовать сохранение в БД.
+HTML-страница игры должна содержать игровое поле, кнопки “Старт/Пауза”, “Начать заново”, блок с отображением оставшегося времени, кол-во набранных в текущей игре очков, таблица результатов. Mockup-ы страниц - ниже по тексту. 
+
+
+Требования:
+
+Приложение должно работать в браузере, вся логика хранится на клиенте. Допускается использование TypeScript. Не допускается использование canvas. Не допускается использование jQuery и аналогичных библиотек. Необходимо согласовывать с куратором проекта все используемые библиотеки.
+Должен присутствовать сборщик gulp/webpcak.
+Качество и прозрачность/понятность кода. Валидность HTML-кода и JS-кода.
+Анимирование эфектов.
+
+
+
+
+
+
